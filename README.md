@@ -1,10 +1,12 @@
 # MytiConsoleApp
 Myki Clone console app - Java
 
+<hr>
+
 Program Instructions:
 <ol>
 <li>Main class = MyTiSystem</li>
-<li>Defaultcardid’s(ac,bc,lc,cc)
+<li>Default card id’s (ac,bc,lc,cc)
   <ul>
     <li>
       All with zero balance
@@ -14,7 +16,8 @@ Program Instructions:
     </li>
   </ul>
   </li>
-  <li>Default stations
+  <li>
+    Default stations
   <ul>
     <li>
       Central
@@ -23,16 +26,16 @@ Program Instructions:
     Flagstaff
     </li>
       <li>
-Epping
+        Epping
     </li>
-      <li>
-    Richmond
+    <li>
+      Richmond
     </li>
-      <li>
-    Lilydale
+    <li>
+      Lilydale
     </li>
-  </ul>
+    </ul>
   </li>
   <li>You can only attach users to already created card</li>
-    <li>Cannot create new cards. (Functionality was optional)</li>
+  <li>Cannot create new cards. (Functionality was optional)</li>
 </ol>
