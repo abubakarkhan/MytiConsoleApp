@@ -3,11 +3,13 @@ Myki Clone console app - Java
 
 Program Instructions:
 <ol>
-<li>1. Main class = MyTiSystem</li>
-<li>2. Defaultcardid’s(ac,bc,lc,cc)</li>
-  </ol>
-a. All with zero balance
-b. LC is the only card with an pre attached user
+<li>Main class = MyTiSystem</li>
+<li>Defaultcardid’s(ac,bc,lc,cc)
+  <ul><li>All with zero balance</li><li>
+    LC is the only card with an pre attached user</li></ul>
+
+  </li>
+</ol>
 4. Default stations
 a. Central
 b. Flagstaff c. Epping
